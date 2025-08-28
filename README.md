@@ -7,6 +7,10 @@ The code and weights have been released, enjoy it！ You can easily run the mode
 If you can't run test.py correctly, please contact me in time! Email: chenwangxing@smail.sut.edu.cn
 
 
+## Environment
+The code is trained and tested on RTX 4090, Python 3.8.13, numpy 1.23.1, pytorch 2.3.0 and CUDA.
+
+
 ## Code Structure
 checkpoint folder: contains the trained models, one of which is MSDHGNN (only low-frequency component modeling) and the other is a variant of MSDHGNN (high- and low-frequency component modeling)
 
