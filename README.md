@@ -1,6 +1,10 @@
 # MSDHGNN-Master
 
+The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the model prediction and real-time performance, **run:  test.py!**
 
+**Run test.py to test the average displacement error (ADE), final displacement error (FDE), and model parameters of the MSDHGNN (modeling only low-frequency components) and the variant of MSDHGNN (modeling both high- and low-frequency components) for various scenarios on the ETH/UCY dataset.**
+
+If you can't run test.py correctly, please contact me in time! Email: chenwangxing@smail.sut.edu.cn
 
 
 ## Code Structure
