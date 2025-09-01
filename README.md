@@ -16,7 +16,7 @@ checkpoint folder: contains the trained models, one of which is MSDHGNN (only lo
 
 dataset folder: contains ETH and UCY datasets
 
-model.py: the code of MSDHGNN (modeling only low-frequency components)
+model.py: the code of our proposed MSDHGNN (modeling only low-frequency components)
 
 LowHighmodel.py: the variant of MSDHGNN (modeling both high- and low-frequency components)
 
